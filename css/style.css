@@ -46,8 +46,8 @@ footer p {
     text-align: center;
     font-size: 13px;
     font-weight: 400;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 
@@ -136,6 +136,10 @@ footer p {
         width: 50%;
         height: auto;
         margin-top: 1%;
+    }
+
+    main_image h1 {
+        width: 50%;
     }
 
     content img {
